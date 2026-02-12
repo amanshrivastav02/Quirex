@@ -1,5 +1,3 @@
-import { PiLineVerticalThin } from "react-icons/pi";
-
 import NavBar from "./NavBar";
 
 function About() {
